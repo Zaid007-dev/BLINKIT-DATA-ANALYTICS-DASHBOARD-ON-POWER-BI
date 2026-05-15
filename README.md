@@ -118,7 +118,6 @@ The layout was designed to be:
 
 ## 🔹 Power BI Dashboard
 
-> Add your dashboard screenshot here
 
 <img width="1541" height="895" alt="Blinkit Dashboard" src="https://github.com/user-attachments/assets/e2f164be-013b-4273-98e6-0176cc1138bc" />
 <img width="1401" height="798" alt="Outlet Dashboard" src="https://github.com/user-attachments/assets/f0ec3fef-207e-4ccb-8714-788abd992e5c" />
