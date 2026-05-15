@@ -67,7 +67,7 @@ The dataset was cleaned and transformed before visualization.
 
 | KPI | Value |
 |------|------|
-| Total Sales | $120.0M |
+| Total Sales | $1.20M |
 | Total Items | 9K |
 | Average Sales | $141.0 |
 | Average Rating | 3.9 |
