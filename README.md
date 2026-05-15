@@ -130,17 +130,8 @@ The layout was designed to be:
 
 # 🎤 Presentation Screenshots
 
-## 🔹 Presentation Image 1
+## 🔹 Presentation 
 
-```md
-![Presentation Image 1](PASTE_PRESENTATION_IMAGE_LINK)
-```
-
-## 🔹 Presentation Image 2
-
-```md
-![Presentation Image 2](PASTE_PRESENTATION_IMAGE_LINK)
-```
 
 ---
 
