@@ -132,6 +132,11 @@ The layout was designed to be:
 ## 🔹 Presentation 
 
 
+<img width="1919" height="935" alt="presentation (1)" src="https://github.com/user-attachments/assets/ab110983-99c9-4fca-8a2c-a71f35c3c9af" />
+<img width="1919" height="926" alt="presentation (4)" src="https://github.com/user-attachments/assets/cf78a99e-5c6a-4a7c-ade7-66c802759a65" />
+
+
+
 ---
 
 # 🚀 Learning Outcomes
